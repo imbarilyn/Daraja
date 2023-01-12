@@ -1,0 +1,8 @@
+MPESA_CONSUMER_KEY: '<your consumer key>'
+MPESA_CONSUMER_SECRET: '<your consumer secret>'
+MPESA_PASSKEY: '<your passkey>'
+MPESA_SHORTCODE: '174379'
+MPESA_INITIATOR_NAME: 'testapi'
+MPESA_INITIATOR_PASSWORD: '<your initiator password>'
+CALLBACK_URL: '< http://127.0.0.1:3000>'
+REGISTER_URL: "https://sandbox.safaricom.co.ke/mpesa/c2b/v1/registerurl"
